@@ -1,0 +1,3 @@
+this is a sample file,line 1
+this is used for assignment 4,line2
+I prints its data by line by line,line3
